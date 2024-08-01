@@ -1,0 +1,30 @@
+/* experience.component.css */
+
+.experience-container {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  .experience-title {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #123524; /* Phthalo green */
+  }
+  
+  .experience-item {
+    margin-bottom: 20px;
+  }
+  
+  .experience-item h3 {
+    margin: 0;
+    color: #123524; /* Phthalo green */
+  }
+  
+  .experience-item p {
+    margin: 5px 0;
+    line-height: 1.6;
+  }
+  

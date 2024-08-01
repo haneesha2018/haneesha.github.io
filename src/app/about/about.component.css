@@ -1,0 +1,20 @@
+/* about.component.css */
+
+.about-container {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  .about-title {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #123524; /* Phthalo green */
+  }
+  
+  .about-content {
+    line-height: 1.6;
+  }
+  
